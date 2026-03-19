@@ -16,6 +16,8 @@ p {
   border-color: rgb(255, 255, 255);
   border-width: 7px;
   border-radius: 1000px;
-  padding: 10px
-  margin-left: 30px
+  border-style:double;
+  padding: 15px;
+  margin-left: 550px;
+  width: 210px;
 }
