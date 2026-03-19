@@ -29,3 +29,17 @@ img {
   border-style:inset;
   border-radius:50px;
 }
+
+h6 {
+  background-color: rgb(0, 0, 0);
+  color: rgb(0, 175, 255);
+  font-size: 50px;
+  font-style: italic;
+  border-color: rgb(255, 255, 255);
+  border-width: 7px;
+  border-radius: 1000px;
+  border-style:double;
+  padding: 15px;
+  margin-left: 480px;
+  width: 500px;
+}
