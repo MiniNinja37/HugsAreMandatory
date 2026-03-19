@@ -18,6 +18,14 @@ p {
   border-radius: 1000px;
   border-style:double;
   padding: 15px;
-  margin-left: 550px;
+  margin-left: 480px;
   width: 500px;
+}
+
+img {
+  margin-left: 500px;
+  width: 500px;
+  border-color: rgb(0, 0, 0);
+  border-style:inset;
+  border-radius:50px;
 }
